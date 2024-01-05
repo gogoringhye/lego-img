@@ -1,1 +1,2 @@
-# lego-img
+# t-shirt_shop
+Angular shopping cart
